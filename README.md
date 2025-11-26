@@ -1,4 +1,14 @@
 # Psy2Bib – Whitepaper (Zero-Knowledge + Sécurité + Schémas)
+
+## Auteurs 
+
+- [@Ismail Ibrahimi](https://www.github.com/IsmailIbrahimi) - ismail.ibrahimi@efrei.net
+- [@Nathan Radivoniuk](https://www.github.com/nathanrdvnk) - nathan.radivoniuk@efrei.net
+- [@Christophe Cui](https://www.github.com/ZrChristophe) - christophe.cui@efrei.net
+- [@Ismael Zaïdi](https://www.github.com/ismax26) - ismael.zaidi@efrei.net
+- [@Hamza Nadifi](https://www.github.com/HamzaNADIFI07) - hamza.nadifi@efrei.net
+ 
+
  
 ## 1. Le Concept Métier – Killer App
  
